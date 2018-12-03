@@ -1,0 +1,7 @@
+c:\users\geo\source\repos\6-1.DiazUriasJorgeDavid\6-1.DiazUriasJorgeDavid\bin\Debug\6-1.DiazUriasJorgeDavid.exe.config
+c:\users\geo\source\repos\6-1.DiazUriasJorgeDavid\6-1.DiazUriasJorgeDavid\bin\Debug\6-1.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\6-1.DiazUriasJorgeDavid\6-1.DiazUriasJorgeDavid\bin\Debug\6-1.DiazUriasJorgeDavid.pdb
+c:\users\geo\source\repos\6-1.DiazUriasJorgeDavid\6-1.DiazUriasJorgeDavid\obj\Debug\6-1.1.DiazUriasJorgeDavid.csprojResolveAssemblyReference.cache
+c:\users\geo\source\repos\6-1.DiazUriasJorgeDavid\6-1.DiazUriasJorgeDavid\obj\Debug\6-1.1.DiazUriasJorgeDavid.csproj.CoreCompileInputs.cache
+c:\users\geo\source\repos\6-1.DiazUriasJorgeDavid\6-1.DiazUriasJorgeDavid\obj\Debug\6-1.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\6-1.DiazUriasJorgeDavid\6-1.DiazUriasJorgeDavid\obj\Debug\6-1.DiazUriasJorgeDavid.pdb
