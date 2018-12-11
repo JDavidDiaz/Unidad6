@@ -1,0 +1,7 @@
+C:\Users\Geo\source\repos\Hash\Hash\bin\Debug\Hash.exe.config
+C:\Users\Geo\source\repos\Hash\Hash\bin\Debug\Hash.exe
+C:\Users\Geo\source\repos\Hash\Hash\bin\Debug\Hash.pdb
+C:\Users\Geo\source\repos\Hash\Hash\obj\Debug\Hash.csprojResolveAssemblyReference.cache
+C:\Users\Geo\source\repos\Hash\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+C:\Users\Geo\source\repos\Hash\Hash\obj\Debug\Hash.exe
+C:\Users\Geo\source\repos\Hash\Hash\obj\Debug\Hash.pdb
